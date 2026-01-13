@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U3",1," LCD 16 x 2"
+"Rpot1",1,"250 kΩ Potentiometer"
+"R1",1,"1 kΩ Resistor"
+"SERVO1, SERVO2",2,"Positional Micro Servo"
+"DIST1, DIST2",2," Ultrasonic Distance Sensor (4-pin)"
+"PING1, PING2",2," Ultrasonic Distance Sensor"
+"PIR1",1," PIR Sensor"
+"R2, R3",2,"220 Ω Resistor"
+"D1, D2",2,"Red LED"
